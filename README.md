@@ -1,8 +1,10 @@
 # MATLAB : UISetScreenPixelsPerInch
+**UISetScreenPixelsPerInch.m is a MATLAB UI for interactively setting the Root ScreenPixelsPerInchProperty**
 
-## UISetScreenPixelsPerInch.m is a MATLAB UI for interactively setting the Root ScreenPixelsPerInchProperty
+**NOTE: This tool works only in releases prior to MATLAB R2015b (8.6)**
 
-## This tool works only in releases prior to MATLAB R2015b (8.6)
+This is the actual submission: 
+http://www.mathworks.com/matlabcentral/fileexchange/25980-uisetscreenpixelsperinch
 
 ![ScreenShot](./screenshot.png)
 
@@ -10,7 +12,7 @@
 %UISETSCREENPIXELSPERINCH set the Root Property: 'ScreenPixelsPerInch'
 %   UISETSCREENPIXELSPERINCH() launches a GUI that can be used
 %   to visualize the effects of changing the root property
-%   <a href="matlab: docsearch('ScreenPixelsPerInch')">'ScreenPixelsPerInch'</a> prior to actually setting its value.
+%   'ScreenPixelsPerInch' prior to actually setting its value.
 %   The 'Text in MATLAB Figures' can be made to appear larger or smaller
 %   by changing the value of the ScreenPixelsPerInch root property.
 %
